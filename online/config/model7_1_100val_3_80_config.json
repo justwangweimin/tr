@@ -1,0 +1,15 @@
+{
+    "data_dir_list": [
+        "dir-001",
+        "dir-002",
+        "dir-003",
+        "dir-004",
+        "dir-005"
+    ],
+    "model_root": "/home/zj/helloworld/kaggle/threat_recognition/models_saved/model7_1_100val_3_80",
+    "model_file_list": [],
+    "data_root": "/home/zj/helloworld/kaggle/threat_recognition/syblink_stage1_aps/model7_1_100val_3_80/train_data_root",
+    "num_models": 0,
+    "last_model_path": "",
+    "last_batch_data_root": ""
+}

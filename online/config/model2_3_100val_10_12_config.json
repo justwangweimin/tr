@@ -1,0 +1,21 @@
+{
+    "model_file_list": [
+        "tsa-dir-001-No001.h5",
+        "tsa-dir-002-No002.h5",
+        "tsa-dir-003-No003.h5",
+        "tsa-dir-004-No004.h5",
+        "tsa-dir-005-No005.h5"
+    ],
+    "last_batch_data_root": "/home/zj/helloworld/kaggle/threat_recognition/syblink_stage1_aps/model2_3_100val_10_12/train_data_root/dir-005",
+    "last_model_path": "/home/zj/helloworld/kaggle/threat_recognition/models_saved/model2_3_100val_10_12/tsa-dir-005-No005.h5",
+    "model_root": "/home/zj/helloworld/kaggle/threat_recognition/models_saved/model2_3_100val_10_12",
+    "data_dir_list": [
+        "dir-001",
+        "dir-002",
+        "dir-003",
+        "dir-004",
+        "dir-005"
+    ],
+    "data_root": "/home/zj/helloworld/kaggle/threat_recognition/syblink_stage1_aps/model2_3_100val_10_12/train_data_root",
+    "num_models": 5
+}
