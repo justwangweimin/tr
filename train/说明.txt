@@ -1,0 +1,6 @@
+1、配置常量参数：const
+2、分割文件夹：segfiles
+3、处理数据文件，得到图像h5文件：processdata2h5
+4、处理图像h5文件，提取特征，得到特征h5文件：extractcnnfeature2h5
+5、训练模型，得到模型文件
+6、应用模型，得到提交csv文件
